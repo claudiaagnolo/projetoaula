@@ -1,0 +1,17 @@
+comandos
+
+clear: limpar o terminal
+configura username: 
+git config --global user.name "nomedousuario"
+
+configura email
+git config --global user.email "email"
+
+mkdir   nomeprojeto
+cd nomeprojeto
+
+git init   (faz o diretorio se transformar em um repositorio)
+code .     (comando do vs code para caminho do arquivo)
+
+ls (lista os arquivos)
+git add .
