@@ -15,3 +15,19 @@ code .     (comando do vs code para caminho do arquivo)
 
 ls (lista os arquivos)
 git add .
+
+1.Repository
+git init ( criar um novo repositório local)
+git clone (clonar um repositório remoto)
+
+2. commit 
+git add file (adicionar arquivos ao stage)
+git add  (para adicionar todos)
+
+arquivos modificados:
+fazer um commit: git commit -m "mensagem do commit"
+
+3. push
+git push origin <nomedabranch>
+
+
