@@ -22,7 +22,7 @@ git clone (clonar um repositório remoto)
 
 2. commit 
 git add file (adicionar arquivos ao stage)
-git add  (para adicionar todos)
+git add . (para adicionar todos)
 
 arquivos modificados:
 fazer um commit: git commit -m "mensagem do commit"
